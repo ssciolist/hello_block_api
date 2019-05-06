@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# static files
+
+# Packages
+
+# Installer logs
+pip-log.txt
+*.log
+
+# Unit test / coverage reports
+.coverage
+.tox
+.cache
+.okhttpcache
+.coverage
+coverage.xml
+htmlcov
+.pytest*
+
+# Local Dev machine
+dev.db
+.DS_Store
+.cache
+.env
+*.sql
+
+
+# Secrets
