@@ -2,3 +2,5 @@ Django
 djangorestframework
 django-environ
 psycopg2
+scrapy
+scrapy-djangoitem
